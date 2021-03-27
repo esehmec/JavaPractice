@@ -57,6 +57,11 @@
       <option name="url" value="https://nexusrepo.corp.apple.com/content/repositories/stonehenge-repo/" />
     </remote-repository>
     <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
       <option name="id" value="IOSTESTCORESnapshots" />
       <option name="name" value="IOSTESTCORESnapshots" />
       <option name="url" value="https://nexusrepo.corp.apple.com/content/repositories/IOSTESTCORESnapshots/" />
